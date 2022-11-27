@@ -1,7 +1,4 @@
-# Frontend Mentor - Product preview card component solution
-om jha
-
-new work to do now
+# Om Jha - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -22,7 +19,7 @@ git
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+I have designed this product-view-page with the help of html and css. This challenge helped me improve my undersatanding about positioning and designing.  
 ### The challenge
 
 Users should be able to:
