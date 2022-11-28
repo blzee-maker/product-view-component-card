@@ -34,8 +34,8 @@ The Screenshot are in the SS folder please feel free to look through them if not
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://your-solution-url.com)
+- Live Site URL: [live site URL here](https://blzee-maker.github.io/product-view-component-card/)
 
 ### Built with
 
