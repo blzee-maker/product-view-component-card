@@ -18,7 +18,7 @@ git
 ## Overview
 Hey everyone😁
 
-I have designed this product-view-page with the help of html and css. This challenge helped me improve my undersatanding about positioning and designing.this has a bit of hover styling to. 
+I have designed this product-view-page with the help of html and css. This challenge helped me improve my understanding about positioning and designing.this has a bit of hover styling to. 
 ### The challenge
 
 Users should be able to:
