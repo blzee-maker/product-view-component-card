@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./SS/Screenshot 2022-11-27 130413.png](./screenshot.jpg)
+![SS/Screenshot 2022-11-27 130413.png](./screenshot.jpg)
 
 The Screenshot are in the SS folder please feel free to look through them if not shown here.
 
